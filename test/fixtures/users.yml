@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  password_digest: MyString
+  last_login: 2015-06-29 16:04:04
+  can_login: false
+  is_superuser: false
+
+two:
+  name: MyString
+  password_digest: MyString
+  last_login: 2015-06-29 16:04:04
+  can_login: false
+  is_superuser: false
